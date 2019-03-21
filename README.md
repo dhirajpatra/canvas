@@ -16,3 +16,7 @@ on our wiki.
 
  * [Quick Start](http://github.com/instructure/canvas-lms/wiki/Quick-Start)
  * [Production Start](http://github.com/instructure/canvas-lms/wiki/Production-Start)
+=======
+# canvas
+Canvas Learning Management System with Ruby
+
